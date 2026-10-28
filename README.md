@@ -136,19 +136,19 @@ Der Power-BI-Bericht umfasst drei Seiten zur Analyse der Onlinebestellungen 2024
 
 Vergleich der Umsatzbeiträge von Bikes, Components, Clothing und Accessories. Ergänzende KPI-Karten zeigen den Gesamtumsatz und die verkauften Einheiten.
 
-![Umsatz nach Produktkategorie](Screenshots/product-categories.png)
+![Umsatz nach Produktkategorie](product-categories.png)
 
 ### 2. Umsatz nach Region und Quartal
 
 Die Matrix vergleicht die Umsätze von Europe und North America über die vier Quartale. Dadurch werden regionale Unterschiede und Entwicklungen im Jahresverlauf sichtbar.
 
-![Umsatz nach Region und Quartal](Screenshots/region-quarter.png)
+![Umsatz nach Region und Quartal](region-quarter.png)
 
 ### 3. Top-Kunden für die Planung 2025
 
 Darstellung der zehn umsatzstärksten Kunden-IDs aus 2024 und ihres gemeinsamen Anteils am Gesamtumsatz. Die Ergebnisse liefern Ansatzpunkte für die Kundenbetreuung und Planung 2025.
 
-![Top-Kunden für die Planung 2025](Screenshots/top-customers.png)
+![Top-Kunden für die Planung 2025](top-customers.png)
 
 ## Einordnung und Grenzen
 
