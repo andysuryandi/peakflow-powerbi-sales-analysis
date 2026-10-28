@@ -1,0 +1,321 @@
+OrderID,OrderDate,CustomerID,CustomerEmail,CustomerName,Region,ProductSKU,ProductName,ProductCategory,Quantity,UnitPriceUSD,Channel
+ORD-100199,10/12/2024,C-0038,pedro.alvarez38@example.com,Pedro Alvarez,North America,CP-WHL-411,Carbon Wheelset 700c,Components,1,"$1,299.00",online
+ORD-100137,"October 28, 2024",C-0062,sarah.chen62@example.com,Sarah Chen,EU,AC-LGT-612,USB Front + Rear Light Set,accessories,3,59.00,ONLINE
+ORD-100208,2024-02-29,C-0055,tom.becker55@example.com,Tom Becker,Europe,AC-HLM-601,Aero Road Helmet,accessories,5,199.00,Online
+ORD-100182,2024-02-16,C-0069, sarah.chen69@example.com ,Sarah Chen,North America,CP-HDB-310,Hydraulic Disc Brake Set,Components,1,279,online
+ORD-100146,2024-12-19,C-0051,lukas.weber51@example.com,Lukas Weber,N. America,AC-BTL-623,Insulated Bottle 750ml,accessories,1,24.00,ONLINE
+ORD-100055,07/22/2024,C-0035,emma.johnson35@example.com,Emma Johnson,EU,AC-LCK-634,Heavy-Duty U-Lock,Accessories,1,79,ONLINE
+ORD-100011,2024-12-10,C-0034,elena.petrova34@example.com,Elena Petrova,North America,CP-DRL-100,Shimano 105 Groupset,components,3,899,ONLINE
+ORD-100015,2024-03-01,C-0002,yuki.tanaka2@example.com,Yuki Tanaka, NA ,BK-KID-005,"Junior Sprint 20""",Bikes,3,$349.00,Online
+ORD-100297,06-04-2024,C-0039,sofia.hernandez39@example.com,Sofia Hernandez, NA ,CP-HDB-310,Hydraulic Disc Brake Set,components,2,279,ONLINE
+ORD-100156,2024-04-24,C-0034,elena.petrova34@example.com,Elena Petrova,NA,AC-LCK-634,Heavy-Duty U-Lock,Accessories,1,$79.00,ONLINE
+ORD-100306,2024-03-28,C-0045,daniel.garcia45@example.com,Daniel Garcia,EU,CL-JRS-512,PeakFlow Race Jersey,Clothing,1,89,ONLINE
+ORD-100241,2024-09-22,C-0052, jessica.park52@example.com ,Jessica Park,N. America,BK-CITY-022,Urbanflow Commuter,Bikes ,1,$899.00,Online
+ORD-100268,2024-10-10,C-0010,elena.petrova10@example.com,Elena Petrova,europe,CL-GLV-534,Long-Finger Winter Gloves,clothing,2,49.00,ONLINE
+ORD-100045,2024-06-07,C-0052,jessica.park52@example.com,Jessica Park,North America,CP-WHL-411,Carbon Wheelset 700c,Components,1,"1,299",Online
+ORD-100142,22-09-2024,C-0070,anna.schmidt70@example.com,Anna Schmidt,EU,CL-JRS-512,PeakFlow Race Jersey,clothing,1,$89.00,Online
+ORD-100192,08/31/2024,C-0052,jessica.park52@example.com,Jessica Park, NA ,AC-BTL-623,Insulated Bottle 750ml,Accesories,5,  24.00  ,online
+ORD-100259,2024-12-13,C-0016,pedro.alvarez16@example.com,Pedro Alvarez,NA,BK-MTB-014,Trailblazer 27.5,Bikes,1,1799.00,Online
+ORD-100080,"March 22, 2024",C-0084, pedro.alvarez84@example.com ,Pedro Alvarez,NA,AC-LGT-612,USB Front + Rear Light Set,Accessories,1,59.00,Online
+ORD-100250,2024-04-06,C-0070,anna.schmidt70@example.com,Anna Schmidt, EU ,CP-WHL-411,Carbon Wheelset 700c,Components,4,1299.00,ONLINE
+ORD-100163,2024-06-04,C-0005,olivia.brown5@example.com,Olivia Brown, NA ,BK-ROAD-001,Velocity Pro Road Bike,Bikes,2,  2499.00  ,online
+ORD-100108,2024-02-08,C-0011,sofia.hernandez11@example.com,Sofia Hernandez,EU,CP-SDL-204,ErgoFit Performance Saddle, Components,2,149.00,Online
+ORD-100287,07-12-2024,C-0007,liam.oconnor7@example.com,Liam OConnor,NA,AC-LCK-634,Heavy-Duty U-Lock,Accessories,3,79,online
+ORD-100257,2024-03-11,C-0058,JESSICA.PARK58@EXAMPLE.COM,Jessica Park,Europe,CP-WHL-411,Carbon Wheelset 700c,Components,1,"$1,299.00",Online
+ORD-100209,2024-03-18,C-0069,sarah.chen69@example.com,Sarah Chen, NA ,BK-CITY-022,Urbanflow Commuter,Bikes,1,899,Online
+ORD-100022,07/20/2024,C-0026,sofia.hernandez26@example.com,Sofia Hernandez,EU,CL-GLV-534,Long-Finger Winter Gloves, Clothing,4,49.00,ONLINE
+ORD-100103,2024-08-20,C-0010,elena.petrova10@example.com,Elena Petrova, EU ,BK-KID-005,"Junior Sprint 20""",Bikes,1,$349.00,Online
+ORD-100167,2024-10-07,C-0084,pedro.alvarez84@example.com,Pedro Alvarez,NA,CL-GLV-534,Long-Finger Winter Gloves, Clothing,1,49,Online
+ORD-100270,04/18/2024,C-0038,pedro.alvarez38@example.com,Pedro Alvarez,North America,CP-DRL-100,Shimano 105 Groupset,Components,1,$899.00,Online
+ORD-100266,2024-08-08,C-0040,pedro.alvarez40@example.com,Pedro Alvarez,EU,CP-SDL-204,ErgoFit Performance Saddle, Components,1,$149.00,online
+ORD-100232,2024-10-16,C-0081, henrik.nilsson81@example.com ,Henrik Nilsson,EU,CL-JRS-512,PeakFlow Race Jersey,Clothing,2,89,ONLINE
+ORD-100084,11/02/2024,C-0032,liam.oconnor32@example.com,Liam OConnor,Europe,CP-DRL-100,Shimano 105 Groupset,Components,1,  899.00  ,ONLINE
+ORD-100095,2024-05-26,C-0004,jessica.park4@example.com,Jessica Park,NA,CP-SDL-204,ErgoFit Performance Saddle,components,2,$149.00,ONLINE
+ORD-100217,2024-09-15,C-0046,daniel.garcia46@example.com,Daniel Garcia,NA,AC-BTL-623,Insulated Bottle 750ml,Accessories,2,$24.00,Online
+ORD-100235,2024-07-23,C-0002,yuki.tanaka2@example.com,Yuki Tanaka, NA ,CP-SDL-204,ErgoFit Performance Saddle,Componnents,2,$149.00,online
+ORD-100207,14-11-2024,C-0057,elena.petrova57@example.com,Elena Petrova,NA,CL-JRS-512,PeakFlow Race Jersey,Clothing,1,$89.00,online
+ORD-100166,2024-12-11,C-0062,sarah.chen62@example.com,Sarah Chen,EU,CL-BIB-523,Endurance Bib Shorts,Clothing,1,129,Online
+ORD-100037,09/30/2024,C-0017,lukas.weber17@example.com,Lukas Weber,EU,AC-LCK-634,Heavy-Duty U-Lock,Accessories,1,79,online
+ORD-100282,2024-12-15,C-0019,anna.schmidt19@example.com,Anna Schmidt,EU,BK-KID-005,"Junior Sprint 20""",Bikes,1,$349.00,ONLINE
+ORD-100179,"September 18, 2024",C-0008,henrik.nilsson8@example.com,Henrik Nilsson, NA ,CP-SDL-204,ErgoFit Performance Saddle,COMPONENTS,1,149.00,Online
+ORD-100073,05/27/2024,C-0003,SOFIA.HERNANDEZ3@EXAMPLE.COM,Sofia Hernandez, NA ,AC-HLM-601,Aero Road Helmet,Accessories,1,199.0,Online
+ORD-100252,2024-10-09,C-0067, emma.johnson67@example.com ,Emma Johnson,NA,AC-LGT-612,USB Front + Rear Light Set,ACCESSORIES,1,$59.00,ONLINE
+ORD-100178,2024-09-03,C-0074,lukas.weber74@example.com,Lukas Weber,na,CL-BIB-523,Endurance Bib Shorts,Clothing,2,129.00,Online
+ORD-100171,2024-07-27,C-0058,jessica.park58@example.com,Jessica Park,Europe,BK-MTB-014,Trailblazer 27.5,bikes,1,1799.00,online
+ORD-100035,15-06-2024,C-0028,jessica.park28@example.com,Jessica Park,EU,AC-BTL-623,Insulated Bottle 750ml,Accessories,2,$24.00,ONLINE
+ORD-100249,06/29/2024,C-0059,pedro.alvarez59@example.com,Pedro Alvarez,NA,BK-ROAD-001,Velocity Pro Road Bike,Bikes ,1,2499.0,online
+ORD-100302,"July 14, 2024",C-0049,anna.schmidt49@example.com,Anna Schmidt,na,CL-JRS-512,PeakFlow Race Jersey, Clothing,3,89.0,online
+ORD-100242,2024-06-09,C-0051,lukas.weber51@example.com,Lukas Weber,N. America,BK-CITY-022,Urbanflow Commuter,Bikes,1,899,online
+ORD-100103,2024-08-20,C-0010,elena.petrova10@example.com,Elena Petrova, EU ,BK-KID-005,"Junior Sprint 20""",Bikes,1,$349.00,Online
+ORD-100009,2024-09-16,C-0075,daniel.garcia75@example.com,Daniel Garcia,EU,BK-MTB-014,Trailblazer 27.5,bikes,1,"$1,799.00",Online
+ORD-100295,2024-07-31,C-0033, lukas.weber33@example.com ,Lukas Weber,NA,CP-HDB-310,Hydraulic Disc Brake Set,components,2,  279.00  ,Online
+ORD-100100,2024-08-11,C-0069,sarah.chen69@example.com,Sarah Chen,NA,CP-WHL-411,Carbon Wheelset 700c,Components,3,1299.0,Online
+ORD-100211,2024-06-21,C-0076,elena.petrova76@example.com,Elena Petrova,NA,CP-DRL-100,Shimano 105 Groupset,Components ,1,$899.00,Online
+ORD-100019,2024-09-27,C-0029,yuki.tanaka29@example.com,Yuki Tanaka,EU,BK-ROAD-001,Velocity Pro Road Bike,Bikes,1,"2,499",ONLINE
+ORD-100063,"May 30, 2024",C-0035,emma.johnson35@example.com,Emma Johnson,EU,BK-ROAD-001,Velocity Pro Road Bike,Bikes,1,2499.00,ONLINE
+ORD-100040,2024-02-26,,elena.petrova85@example.com,Elena Petrova,NA,CL-GLV-534,Long-Finger Winter Gloves,Clothing,2,  49.00  ,Online
+ORD-100070,04/17/2024,C-0024,anna.schmidt24@example.com,Anna Schmidt, NA ,CP-SDL-204,ErgoFit Performance Saddle,Components,2,149,Online
+ORD-100224,2024-04-13,C-0079,INES.MARQUES79@EXAMPLE.COM,Ines Marques,EU,AC-LGT-612,USB Front + Rear Light Set,Accessories,1,59.00,Online
+ORD-100190,2024-01-21,C-0062,sarah.chen62@example.com,Sarah Chen,EU,AC-LCK-634,Heavy-Duty U-Lock,Accessories,1,79.00,ONLINE
+ORD-100240,20-01-2024,C-0076,elena.petrova76@example.com,Elena Petrova,NA,BK-CITY-022,Urbanflow Commuter,bikes,1,  899.00  ,Online
+ORD-100074,05-05-2024,C-0030,anna.schmidt30@example.com,Anna Schmidt, NA ,CL-GLV-534,Long-Finger Winter Gloves,Clothing,1,$49.00,ONLINE
+ORD-100288,2024-06-05,C-0030,anna.schmidt30@example.com,Anna Schmidt, NA ,CP-DRL-100,Shimano 105 Groupset,Components,2,899.00,Online
+ORD-100278,22-12-2024,C-0082,jessica.park82@example.com,Jessica Park,N. America,CL-JRS-512,PeakFlow Race Jersey,Clothing,1,89,Online
+ORD-100311,06/14/2024,C-0081,henrik.nilsson81@example.com,Henrik Nilsson, EU ,BK-ROAD-001,Velocity Pro Road Bike,Bikes,-2,"2,499",online
+ORD-100227,01-07-2024,C-0035,emma.johnson35@example.com,Emma Johnson, EU ,AC-LGT-612,USB Front + Rear Light Set,accessories,1,  59.00  ,Online
+ORD-100203,12/13/2024,C-0047,elena.petrova47@example.com,Elena Petrova,EU,CL-JKT-501,Stormshield Cycling Jacket,Clothing,2,189.00,ONLINE
+ORD-100279,2024-11-28,C-0024,anna.schmidt24@example.com,Anna Schmidt,NA,CL-GLV-534,Long-Finger Winter Gloves,Clothing,1,$49.00,ONLINE
+ORD-100154,11-08-2024,C-0027,lukas.weber27@example.com,Lukas Weber,North America,AC-LGT-612,USB Front + Rear Light Set,Accessories,2,59,ONLINE
+ORD-100069,07-10-2024,C-0057,elena.petrova57@example.com,Elena Petrova,NA,CP-SDL-204,ErgoFit Performance Saddle,Components,3,149.00,ONLINE
+ORD-100256,2024-03-09,C-0042,liam.oconnor42@example.com,Liam OConnor,EU,CP-DRL-100,Shimano 105 Groupset,Components ,1,$899.00,Online
+ORD-100102,2024-07-22,C-0047, elena.petrova47@example.com ,Elena Petrova,Europe,BK-CITY-022,Urbanflow Commuter,bikes,1,$899.00,online
+ORD-100038,03/18/2024,C-0021,elena.petrova21@example.com,Elena Petrova,NA,CL-JRS-512,PeakFlow Race Jersey,clothing,1,$89.00,ONLINE
+ORD-100112,2024-01-23,C-0055,tom.becker55@example.com,Tom Becker,EU,CL-GLV-534,Long-Finger Winter Gloves,Clothing ,1,$49.00,Online
+ORD-100301,07/30/2024,C-0034,elena.petrova34@example.com,Elena Petrova, NA ,CL-JRS-512,PeakFlow Race Jersey,Clothing,1,$89.00,online
+ORD-100129,2024-07-25,C-0038,pedro.alvarez38@example.com,Pedro Alvarez,North America,CL-JRS-512,PeakFlow Race Jersey, Clothing,2,89,Online
+ORD-100032,2024-08-04,C-0003,sofia.hernandez3@example.com,Sofia Hernandez,North America,AC-HLM-601,Aero Road Helmet,Accessories,4,199,ONLINE
+ORD-100109,2024-11-02,C-0077,yuki.tanaka77@example.com,Yuki Tanaka,EU,BK-MTB-014,Trailblazer 27.5,bikes,2,"1,799",ONLINE
+ORD-100184,2024-07-08,C-0032,liam.oconnor32@example.com,Liam OConnor, EU ,CP-HDB-310,Hydraulic Disc Brake Set,Components,1,279.00,Online
+ORD-100098,06/21/2024,C-0066,daniel.garcia66@example.com,Daniel Garcia,EU,BK-KID-005,"Junior Sprint 20""",Bikes,1,349.0,online
+ORD-100042,19-11-2024,C-0035,emma.johnson35@example.com,Emma Johnson,EU,CL-BIB-523,Endurance Bib Shorts,Clothing,3,129.00,online
+ORD-100201,2024-09-09,C-0071,sofia.hernandez71@example.com,Sofia Hernandez,North America,BK-CITY-022,Urbanflow Commuter,bikes,2,899,online
+ORD-100307,"July 21, 2024",C-0068,pedro.alvarez68@example.com,Pedro Alvarez,Europe,CL-BIB-523,Endurance Bib Shorts,Clothing,2,129.0,Online
+ORD-100050,12/26/2024,C-0039,sofia.hernandez39@example.com,Sofia Hernandez,NA,BK-CITY-022,Urbanflow Commuter,Bikes,1,899.00,Online
+ORD-100213,2024-11-18,C-0015,daniel.garcia15@example.com,Daniel Garcia,NA,BK-ROAD-001,Velocity Pro Road Bike,Bikes,2,"$2,499.00",ONLINE
+ORD-100243,2024-03-23,C-0040,pedro.alvarez40@example.com,Pedro Alvarez,EU,CP-SDL-204,ErgoFit Performance Saddle,COMPONENTS,2,149,online
+ORD-100162,"November 27, 2024",C-0023,elena.petrova23@example.com,Elena Petrova,EU,AC-LGT-612,USB Front + Rear Light Set, Accessories,1,59.0,Online
+ORD-100309,2024-10-20,C-0082,jessica.park82@example.com,Jessica Park,na,CL-JKT-501,Stormshield Cycling Jacket,clothing,-2,  189.00  ,online
+ORD-100173,2024-10-27,C-0024,anna.schmidt24@example.com,Anna Schmidt,NA,CP-DRL-100,Shimano 105 Groupset,Componnents,5,899.0,Online
+ORD-100066,2024-08-19,C-0057,elena.petrova57@example.com,Elena Petrova,NA,BK-KID-005,"Junior Sprint 20""",Bikes,1,349.0,Online
+ORD-100189,2024-04-01,C-0001,jessica.park1@example.com,Jessica Park,NA,AC-LGT-612,USB Front + Rear Light Set,Accessories,2,59,ONLINE
+ORD-100298,2024-12-27,C-0004,JESSICA.PARK4@EXAMPLE.COM,Jessica Park,North America,AC-LCK-634,Heavy-Duty U-Lock,Accessories,1,$79.00,ONLINE
+ORD-100056,2024-12-27,C-0076,elena.petrova76@example.com,Elena Petrova,NA,BK-ROAD-001,Velocity Pro Road Bike,bikes,2,2499.0,online
+ORD-100284,2024-11-20,C-0071,sofia.hernandez71@example.com,Sofia Hernandez, NA ,CL-BIB-523,Endurance Bib Shorts,CLOTHING,1,$129.00,online
+ORD-100312,10/24/2024,C-0054,lukas.weber54@example.com,Lukas Weber,EU,BK-KID-005,"Junior Sprint 20""",BIKES,-1,$349.00,online
+ORD-100264,03-09-2024,C-0008,henrik.nilsson8@example.com,Henrik Nilsson,NA,CP-WHL-411,Carbon Wheelset 700c,Components,5,1299.00,ONLINE
+ORD-100139,2024-12-14,C-0029,yuki.tanaka29@example.com,Yuki Tanaka,europe,CL-GLV-534,Long-Finger Winter Gloves,Clothing,1,49,ONLINE
+ORD-100210,2024-01-16,C-0056,henrik.nilsson56@example.com,Henrik Nilsson,EU,BK-KID-005,"Junior Sprint 20""",Bikes,1,349.00,ONLINE
+ORD-100018,2024-04-10,C-0032,liam.oconnor32@example.com,Liam OConnor,EU,CL-JKT-501,Stormshield Cycling Jacket, Clothing,2,189.00,online
+ORD-100065,"July 05, 2024",C-0061,emma.johnson61@example.com,Emma Johnson,EU,AC-HLM-601,Aero Road Helmet,Accessories,2,199,online
+ORD-100271,2024-09-22,C-0079, ines.marques79@example.com ,Ines Marques,EU,CP-WHL-411,Carbon Wheelset 700c,Components,1,"1,299",online
+ORD-100175,01-10-2024,C-0039,sofia.hernandez39@example.com,Sofia Hernandez,NA,AC-BTL-623,Insulated Bottle 750ml,Accessories,1,24.0,ONLINE
+ORD-100258,2024-09-05,C-0048,OLIVIA.BROWN48@EXAMPLE.COM,Olivia Brown,Europe,BK-CITY-022,Urbanflow Commuter,Bikes,1,$899.00,Online
+ORD-100292,2024-11-15,C-0045,DANIEL.GARCIA45@EXAMPLE.COM,Daniel Garcia,EU,CP-SDL-204,ErgoFit Performance Saddle,Componnents,1,  149.00  ,online
+ORD-100204,07/23/2024,C-0049,anna.schmidt49@example.com,Anna Schmidt,NA,CL-BIB-523,Endurance Bib Shorts,Clothing,1,129,Online
+ORD-100230,2024-03-13,C-0007,liam.oconnor7@example.com,Liam OConnor,NA,BK-MTB-014,Trailblazer 27.5,Bikes,2,1799.0,online
+ORD-100076,2024-08-20,C-0070,anna.schmidt70@example.com,Anna Schmidt,EU,CL-GLV-534,Long-Finger Winter Gloves,CLOTHING,3,49,Online
+ORD-100220,2024-07-13,C-0072,sofia.hernandez72@example.com,Sofia Hernandez, NA ,AC-LCK-634,Heavy-Duty U-Lock,ACCESSORIES,1,$79.00,online
+ORD-100305,17-10-2024,C-0069,sarah.chen69@example.com,Sarah Chen,NA,CP-HDB-310,Hydraulic Disc Brake Set,Components,4,279,online
+ORD-100006,2024-05-23,C-0001,jessica.park1@example.com,Jessica Park,na,AC-HLM-601,Aero Road Helmet,Accessories,2,199,online
+ORD-100261,29-05-2024,C-0008,henrik.nilsson8@example.com,Henrik Nilsson, NA ,BK-CITY-022,Urbanflow Commuter,BIKES,1,  899.00  ,Online
+ORD-100231,04/10/2024,C-0017,lukas.weber17@example.com,Lukas Weber,EU,CL-JRS-512,PeakFlow Race Jersey, Clothing,4,$89.00,Online
+ORD-100291,2024-09-20,C-0065,ines.marques65@example.com,Ines Marques,NA,AC-HLM-601,Aero Road Helmet,Accesories,1,199,Online
+ORD-100044,10/14/2024,C-0011,sofia.hernandez11@example.com,Sofia Hernandez,EU,CP-WHL-411,Carbon Wheelset 700c,COMPONENTS,1,"$1,299.00",online
+ORD-100254,02/29/2024,C-0035,emma.johnson35@example.com,Emma Johnson,EU,CP-WHL-411,Carbon Wheelset 700c,Components,1,1299.00,ONLINE
+ORD-100123,"July 06, 2024",C-0071,sofia.hernandez71@example.com,Sofia Hernandez,NA,BK-ROAD-001,Velocity Pro Road Bike,BIKES,1,2499.00,ONLINE
+ORD-100101,2024-09-02,C-0074,LUKAS.WEBER74@EXAMPLE.COM,Lukas Weber,NA,AC-LGT-612,USB Front + Rear Light Set,ACCESSORIES,2,59,ONLINE
+ORD-100164,05/26/2024,C-0065,ines.marques65@example.com,Ines Marques,North America,AC-BTL-623,Insulated Bottle 750ml,Accessories,2,24.00,Online
+ORD-100274,2024-07-26,C-0029,yuki.tanaka29@example.com,Yuki Tanaka,EU,CP-SDL-204,ErgoFit Performance Saddle,Components,2,  149.00  ,online
+ORD-100289,2024-11-11,C-0063,henrik.nilsson63@example.com,Henrik Nilsson,NA,CL-GLV-534,Long-Finger Winter Gloves,Cloathing,1,  49.00  ,online
+ORD-100051,06/07/2024,C-0039,sofia.hernandez39@example.com,Sofia Hernandez,NA,AC-LGT-612,USB Front + Rear Light Set,Accessories,2,59,online
+ORD-100110,2024-03-04,C-0020,marco.rossi20@example.com,Marco Rossi, EU ,CL-BIB-523,Endurance Bib Shorts,Clothing,2,129,online
+ORD-100120,2024-08-26,C-0028,jessica.park28@example.com,Jessica Park,EU,CP-DRL-100,Shimano 105 Groupset,Components,2,899.00,ONLINE
+ORD-100016,2024-12-02,C-0047,elena.petrova47@example.com,Elena Petrova,Europe,BK-MTB-014,Trailblazer 27.5,Bikes,1,"1,799",online
+ORD-100290,2024-11-25,C-0023,ELENA.PETROVA23@EXAMPLE.COM,Elena Petrova,EU,CP-HDB-310,Hydraulic Disc Brake Set,Components,1,279.00,Online
+ORD-100296,"June 04, 2024",C-0072,sofia.hernandez72@example.com,Sofia Hernandez,N. America,CL-JRS-512,PeakFlow Race Jersey,Clothing,1,89,ONLINE
+ORD-100079,29-01-2024,C-0030,anna.schmidt30@example.com,Anna Schmidt,NA,AC-LCK-634,Heavy-Duty U-Lock,Accesories,3,79.0,Online
+ORD-100033,2024-05-05,C-0029,yuki.tanaka29@example.com,Yuki Tanaka,EU,AC-LCK-634,Heavy-Duty U-Lock,Accessories,1,79.00,online
+ORD-100150,"June 15, 2024",C-0020,marco.rossi20@example.com,Marco Rossi,EU,CP-DRL-100,Shimano 105 Groupset,Components,2,  899.00  ,ONLINE
+ORD-100105,2024-11-22,C-0073,lukas.weber73@example.com,Lukas Weber,EU,CL-BIB-523,Endurance Bib Shorts,Clothing,2,$129.00,ONLINE
+ORD-100036,2024-05-07,C-0007,LIAM.OCONNOR7@EXAMPLE.COM,Liam OConnor,NA,CL-GLV-534,Long-Finger Winter Gloves,Cloathing,1,49,online
+ORD-100194,05/09/2024,C-0068,pedro.alvarez68@example.com,Pedro Alvarez,Europe,BK-MTB-014,Trailblazer 27.5,bikes,3,"$1,799.00",ONLINE
+ORD-100193,07/02/2024,C-0052, jessica.park52@example.com ,Jessica Park,North America,AC-HLM-601,Aero Road Helmet,Accessories,1,199.00,online
+ORD-100237,10/31/2024,C-0078,liam.oconnor78@example.com,Liam OConnor,NA,CL-JRS-512,PeakFlow Race Jersey,Clothing,2,89,Online
+ORD-100028,2024-02-15,C-0067,emma.johnson67@example.com,Emma Johnson, NA ,AC-BTL-623,Insulated Bottle 750ml,Accessories ,1,24,Online
+ORD-100096,2024-03-09,C-0082,jessica.park82@example.com,Jessica Park,NA,BK-ROAD-001,Velocity Pro Road Bike,Bikes,1,2499.0,ONLINE
+ORD-100218,07/01/2024,C-0015,daniel.garcia15@example.com,Daniel Garcia,NA,CP-SDL-204,ErgoFit Performance Saddle,Components,1,149.00,ONLINE
+ORD-100075,06/08/2024,C-0083, sofia.hernandez83@example.com ,Sofia Hernandez,NA,BK-MTB-014,Trailblazer 27.5,bikes,1,"$1,799.00",online
+ORD-100091,2024-02-25,C-0020,marco.rossi20@example.com,Marco Rossi,Europe,AC-LCK-634,Heavy-Duty U-Lock,Accessories,3,79,ONLINE
+ORD-100299,04-12-2024,C-0029,yuki.tanaka29@example.com,Yuki Tanaka,Europe,AC-LCK-634,Heavy-Duty U-Lock,Accessories,2,$79.00,online
+ORD-100160,03/14/2024,,liam.oconnor43@example.com,Liam OConnor,EU,AC-LCK-634,Heavy-Duty U-Lock, Accessories,2,  79.00  ,Online
+ORD-100310,2024-08-15,C-0007,liam.oconnor7@example.com,Liam OConnor,NA,BK-KID-005,"Junior Sprint 20""",Bikes,-1,$349.00,online
+ORD-100260,05/27/2024,C-0028,jessica.park28@example.com,Jessica Park, EU ,CP-SDL-204,ErgoFit Performance Saddle,Components,1,  149.00  ,Online
+ORD-100030,2024-05-27,C-0063,henrik.nilsson63@example.com,Henrik Nilsson,NA,CP-WHL-411,Carbon Wheelset 700c,Components,1,"$1,299.00",ONLINE
+ORD-100116,2024-11-25,C-0078,liam.oconnor78@example.com,Liam OConnor,North America,CP-DRL-100,Shimano 105 Groupset,Components,1,$899.00,online
+ORD-100151,2024-08-03,C-0063,henrik.nilsson63@example.com,Henrik Nilsson,NA,CL-JRS-512,PeakFlow Race Jersey, Clothing,1,  89.00  ,ONLINE
+ORD-100122,2024-09-01,C-0046,daniel.garcia46@example.com,Daniel Garcia,na,CP-WHL-411,Carbon Wheelset 700c,Components,1,  1299.00  ,ONLINE
+ORD-100158,2024-06-01,C-0045,daniel.garcia45@example.com,Daniel Garcia,EU,CP-DRL-100,Shimano 105 Groupset,Components,1,$899.00,ONLINE
+ORD-100188,"April 21, 2024",C-0070,anna.schmidt70@example.com,Anna Schmidt,Europe,AC-LCK-634,Heavy-Duty U-Lock,Accessories,3,  79.00  ,online
+ORD-100153,05-04-2024,C-0080, anna.schmidt80@example.com ,Anna Schmidt,EU,AC-HLM-601,Aero Road Helmet,Accessories,2,$199.00,ONLINE
+ORD-100152,05/23/2024,C-0004,jessica.park4@example.com,Jessica Park,NA,AC-LCK-634,Heavy-Duty U-Lock,Accessories,2,79.00,ONLINE
+ORD-100210,2024-01-16,C-0056,henrik.nilsson56@example.com,Henrik Nilsson,EU,BK-KID-005,"Junior Sprint 20""",Bikes,1,349.00,ONLINE
+ORD-100275,06/18/2024,C-0010,elena.petrova10@example.com,Elena Petrova, EU ,BK-CITY-022,Urbanflow Commuter,Bikes,5,899.00,online
+ORD-100283,2024-12-27,C-0056,henrik.nilsson56@example.com,Henrik Nilsson,Europe,CP-HDB-310,Hydraulic Disc Brake Set,Components,2,279.00,Online
+ORD-100117,2024-07-26,C-0021,elena.petrova21@example.com,Elena Petrova,North America,CL-JKT-501,Stormshield Cycling Jacket, Clothing,1,189.0,Online
+ORD-100053,12/08/2024,C-0010,elena.petrova10@example.com,Elena Petrova,EU,CP-WHL-411,Carbon Wheelset 700c,Components,2,"1,299",Online
+ORD-100144,2024-06-12,C-0066, daniel.garcia66@example.com ,Daniel Garcia,EU,BK-KID-005,"Junior Sprint 20""",Bikes,1,349,online
+ORD-100131,2024-02-25,C-0005,olivia.brown5@example.com,Olivia Brown, NA ,CP-DRL-100,Shimano 105 Groupset,components,2,899.0,Online
+ORD-100078,01/20/2024,C-0012,yuki.tanaka12@example.com,Yuki Tanaka, NA ,AC-HLM-601,Aero Road Helmet,Accesories,1,199.0,online
+ORD-100155,2024-06-10,C-0062,sarah.chen62@example.com,Sarah Chen,Europe,AC-HLM-601,Aero Road Helmet,accessories,1,199,ONLINE
+ORD-100286,02/07/2024,C-0074,lukas.weber74@example.com,Lukas Weber,NA,AC-LCK-634,Heavy-Duty U-Lock, Accessories,1,79.00,online
+ORD-100001,2024-01-13,C-0076,ELENA.PETROVA76@EXAMPLE.COM,Elena Petrova,NA,CP-WHL-411,Carbon Wheelset 700c,Components,2,"$1,299.00",Online
+ORD-100183,2024-11-24,C-0062,sarah.chen62@example.com,Sarah Chen,europe,CP-HDB-310,Hydraulic Disc Brake Set,Components,1,279.0,Online
+ORD-100202,2024-10-05,C-0074,lukas.weber74@example.com,Lukas Weber,NA,CP-SDL-204,ErgoFit Performance Saddle,Components,1,$149.00,online
+ORD-100010,2024-07-28,C-0017,lukas.weber17@example.com,Lukas Weber,EU,CL-JRS-512,PeakFlow Race Jersey,Clothing,4,89.00,ONLINE
+ORD-100239,2024-03-29,C-0047,elena.petrova47@example.com,Elena Petrova,Europe,CL-BIB-523,Endurance Bib Shorts,Clothing ,3,  129.00  ,online
+ORD-100267,2024-12-07,C-0044,tom.becker44@example.com,Tom Becker,Europe,CP-SDL-204,ErgoFit Performance Saddle,COMPONENTS,3,  149.00  ,Online
+ORD-100027,05-04-2024,C-0052,jessica.park52@example.com,Jessica Park,North America,CP-WHL-411,Carbon Wheelset 700c,Components,2,  1299.00  ,ONLINE
+ORD-100285,2024-12-08,C-0019,anna.schmidt19@example.com,Anna Schmidt,EU,BK-KID-005,"Junior Sprint 20""",Bikes,1,349.00,Online
+ORD-100251,2024-03-16,C-0049,ANNA.SCHMIDT49@EXAMPLE.COM,Anna Schmidt,na,CL-JRS-512,PeakFlow Race Jersey,clothing,1,$89.00,online
+ORD-100263,"August 20, 2024",C-0008, henrik.nilsson8@example.com ,Henrik Nilsson, NA ,AC-LCK-634,Heavy-Duty U-Lock,Accessories,2,  79.00  ,ONLINE
+ORD-100233,14-01-2024,C-0057,elena.petrova57@example.com,Elena Petrova,NA,BK-ROAD-001,Velocity Pro Road Bike,Bikes,1,"$2,499.00",online
+ORD-100273,2024-11-28,C-0054, lukas.weber54@example.com ,Lukas Weber,EU,CP-SDL-204,ErgoFit Performance Saddle,Componnents,1,149,ONLINE
+ORD-100128,11/06/2024,C-0067,emma.johnson67@example.com,Emma Johnson,NA,CL-JKT-501,Stormshield Cycling Jacket,Clothing,2,$189.00,ONLINE
+ORD-100023,2024-07-10,C-0053,emma.johnson53@example.com,Emma Johnson, EU ,CL-BIB-523,Endurance Bib Shorts, Clothing,1,129,Online
+ORD-100115,2024-06-29,C-0061,emma.johnson61@example.com,Emma Johnson,EU,CP-HDB-310,Hydraulic Disc Brake Set,Components,4,279.0,online
+ORD-100147,20-07-2024,C-0002,yuki.tanaka2@example.com,Yuki Tanaka,NA,BK-KID-005,"Junior Sprint 20""",Bikes,3,$349.00,ONLINE
+ORD-100114,2024-07-13,C-0057,elena.petrova57@example.com,Elena Petrova,North America,BK-MTB-014,Trailblazer 27.5,Bikes,2,1799.00,Online
+ORD-100118,2024-08-11,C-0007,LIAM.OCONNOR7@EXAMPLE.COM,Liam OConnor,N. America,AC-HLM-601,Aero Road Helmet,Accesories,1,199,online
+ORD-100293,2024-10-02,C-0029,yuki.tanaka29@example.com,Yuki Tanaka,Europe,CP-WHL-411,Carbon Wheelset 700c,Components,1,1299.0,ONLINE
+ORD-100061,2024-09-24,C-0060,ines.marques60@example.com,Ines Marques,EU,BK-KID-005,"Junior Sprint 20""",Bikes,1,349.00,Online
+ORD-100104,2024-09-11,C-0026,sofia.hernandez26@example.com,Sofia Hernandez,EU,CP-SDL-204,ErgoFit Performance Saddle,COMPONENTS,2,  149.00  ,Online
+ORD-100097,2024-04-09,C-0011,sofia.hernandez11@example.com,Sofia Hernandez,EU,BK-MTB-014,Trailblazer 27.5,Bikes,2,1799.00,online
+ORD-100269,17-04-2024,C-0063,henrik.nilsson63@example.com,Henrik Nilsson,NA,CL-BIB-523,Endurance Bib Shorts,Clothing,4,$129.00,Online
+ORD-100141,2024-03-04,C-0006,sarah.chen6@example.com,Sarah Chen, NA ,BK-ROAD-001,Velocity Pro Road Bike,Bikes,4,"$2,499.00",ONLINE
+ORD-100222,2024-10-25,C-0047,elena.petrova47@example.com,Elena Petrova, EU ,BK-MTB-014,Trailblazer 27.5,Bikes,1,  1799.00  ,online
+ORD-100196,2024-08-31,C-0021,elena.petrova21@example.com,Elena Petrova,North America,CP-WHL-411,Carbon Wheelset 700c,COMPONENTS,3,"1,299",online
+ORD-100013,09/11/2024,C-0035,emma.johnson35@example.com,Emma Johnson,EU,CL-JRS-512,PeakFlow Race Jersey, Clothing,2,  89.00  ,online
+ORD-100072,2024-11-17,C-0033,lukas.weber33@example.com,Lukas Weber, NA ,AC-BTL-623,Insulated Bottle 750ml,Accessories,1,24.0,Online
+ORD-100085,2024-11-21,C-0001,jessica.park1@example.com,Jessica Park, NA ,CL-JKT-501,Stormshield Cycling Jacket,Clothing,1,,online
+ORD-100062,04-07-2024,C-0071,sofia.hernandez71@example.com,Sofia Hernandez,NA,CP-DRL-100,Shimano 105 Groupset,COMPONENTS,4,899.00,ONLINE
+ORD-100083,2024-12-19,C-0036,tom.becker36@example.com,Tom Becker, EU ,CP-HDB-310,Hydraulic Disc Brake Set,Components ,4,$279.00,Online
+ORD-100126,25-12-2024,C-0066,daniel.garcia66@example.com,Daniel Garcia,EU,AC-HLM-601,Aero Road Helmet,ACCESSORIES,1,  199.00  ,Online
+ORD-100020,"March 21, 2024",C-0043,liam.oconnor43@example.com,Liam OConnor,EU,BK-ROAD-001,Velocity Pro Road Bike,Bikes,5,"2,499",Online
+ORD-100043,2024-04-20,C-0064,henrik.nilsson64@example.com,Henrik Nilsson,North America,CL-BIB-523,Endurance Bib Shorts,Clothing,1,,online
+ORD-100127,2024-11-05,C-0035,emma.johnson35@example.com,Emma Johnson,EU,BK-KID-005,"Junior Sprint 20""",Bikes,1,349,Online
+ORD-100135,11/19/2024,C-0038,pedro.alvarez38@example.com,Pedro Alvarez,NA,CL-JRS-512,PeakFlow Race Jersey,Clothing,2,$89.00,online
+ORD-100130,29-02-2024,C-0036,tom.becker36@example.com,Tom Becker,europe,BK-MTB-014,Trailblazer 27.5,Bikes,2,"1,799",Online
+ORD-100041,04/18/2024,C-0020,marco.rossi20@example.com,Marco Rossi,Europe,AC-LGT-612,USB Front + Rear Light Set,Accessories,1,  59.00  ,ONLINE
+ORD-100272,2024-07-25,C-0082,jessica.park82@example.com,Jessica Park,NA,CL-BIB-523,Endurance Bib Shorts,Clothing,1,129.00,ONLINE
+ORD-100003,"July 31, 2024",C-0055, tom.becker55@example.com ,Tom Becker,EU,AC-LGT-612,USB Front + Rear Light Set,Accessories,2,  59.00  ,online
+ORD-100014,2024-11-13,C-0082,jessica.park82@example.com,Jessica Park,NA,AC-LGT-612,USB Front + Rear Light Set,Accessories,1,59,ONLINE
+ORD-100308,2024-05-07,C-0003,sofia.hernandez3@example.com,Sofia Hernandez,NA,CP-WHL-411,Carbon Wheelset 700c,components,5,  1299.00  ,Online
+ORD-100143,04/29/2024,C-0062,sarah.chen62@example.com,Sarah Chen,Europe,AC-BTL-623,Insulated Bottle 750ml,Accessories ,2,$24.00,Online
+ORD-100304,08/07/2024,C-0074,lukas.weber74@example.com,Lukas Weber,NA,CP-SDL-204,ErgoFit Performance Saddle,Components ,2,149.00,online
+ORD-100099,2024-06-05,C-0001,jessica.park1@example.com,Jessica Park,NA,CP-HDB-310,Hydraulic Disc Brake Set,components,1,$279.00,Online
+ORD-100165,17-04-2024,C-0073,lukas.weber73@example.com,Lukas Weber,EU,CP-HDB-310,Hydraulic Disc Brake Set,components,3,$279.00,online
+ORD-100246,2024-10-20,C-0015,DANIEL.GARCIA15@EXAMPLE.COM,Daniel Garcia,NA,CP-WHL-411,Carbon Wheelset 700c, Components,1,"$1,299.00",online
+ORD-100212,2024-11-01,C-0044,tom.becker44@example.com,Tom Becker,EU,AC-BTL-623,Insulated Bottle 750ml,Accessories,1,$24.00,ONLINE
+ORD-100089,2024-07-03,C-0082,jessica.park82@example.com,Jessica Park,North America,CL-BIB-523,Endurance Bib Shorts,Clothing,1,129,ONLINE
+ORD-100244,2024-10-23,C-0048,olivia.brown48@example.com,Olivia Brown,EU,CP-DRL-100,Shimano 105 Groupset,Components,3,899.00,Online
+ORD-100064,07/28/2024,C-0070,anna.schmidt70@example.com,Anna Schmidt,EU,AC-HLM-601,Aero Road Helmet,ACCESSORIES,1,$199.00,ONLINE
+ORD-100104,2024-09-11,C-0026,sofia.hernandez26@example.com,Sofia Hernandez,EU,CP-SDL-204,ErgoFit Performance Saddle,COMPONENTS,2,  149.00  ,Online
+ORD-100268,2024-10-10,C-0010,elena.petrova10@example.com,Elena Petrova,europe,CL-GLV-534,Long-Finger Winter Gloves,clothing,2,49.00,ONLINE
+ORD-100111,09/23/2024,C-0040,pedro.alvarez40@example.com,Pedro Alvarez,europe,AC-HLM-601,Aero Road Helmet, Accessories,1,$199.00,ONLINE
+ORD-100025,2024-05-30,C-0022,tom.becker22@example.com,Tom Becker,NA,BK-CITY-022,Urbanflow Commuter,Bikes,2,  899.00  ,online
+ORD-100159,2024-03-31,C-0035,emma.johnson35@example.com,Emma Johnson,EU,CL-JKT-501,Stormshield Cycling Jacket,Clothing,2,$189.00,Online
+ORD-100180,2024-06-05,C-0053,emma.johnson53@example.com,Emma Johnson,Europe,CP-DRL-100,Shimano 105 Groupset,Components,1,899.00,online
+ORD-100177,2024-10-20,C-0007,liam.oconnor7@example.com,Liam OConnor,NA,CP-WHL-411,Carbon Wheelset 700c,Components,1,"$1,299.00",ONLINE
+ORD-100134,12/01/2024,C-0058,jessica.park58@example.com,Jessica Park,EU,CP-SDL-204,ErgoFit Performance Saddle,Components,1,$149.00,ONLINE
+ORD-100133,"May 22, 2024",C-0072,sofia.hernandez72@example.com,Sofia Hernandez,N. America,BK-KID-005,"Junior Sprint 20""",Bikes,1,$349.00,online
+ORD-100087,12-08-2024,C-0014,pedro.alvarez14@example.com,Pedro Alvarez,EU,AC-BTL-623,Insulated Bottle 750ml,Accessories,4,24.0,online
+ORD-100172,"February 12, 2024",C-0028,jessica.park28@example.com,Jessica Park,EU,BK-CITY-022,Urbanflow Commuter, Bikes,1,$899.00,Online
+ORD-100265,2024-10-10,C-0046,daniel.garcia46@example.com,Daniel Garcia,North America,BK-ROAD-001,Velocity Pro Road Bike,BIKES,1,2499.0,ONLINE
+ORD-100145,2024-12-11,C-0021,elena.petrova21@example.com,Elena Petrova,NA,CL-BIB-523,Endurance Bib Shorts,Cloathing,2,129.00,online
+ORD-100186,2024-05-21,C-0019,anna.schmidt19@example.com,Anna Schmidt,EU,BK-ROAD-001,Velocity Pro Road Bike,Bikes,4,  2499.00  ,Online
+ORD-100148,05-07-2024,C-0037,elena.petrova37@example.com,Elena Petrova, NA ,BK-CITY-022,Urbanflow Commuter,Bikes,1,$899.00,Online
+ORD-100277,2024-04-08,C-0051,lukas.weber51@example.com,Lukas Weber, NA ,AC-LCK-634,Heavy-Duty U-Lock,Accessories,1,$79.00,online
+ORD-100197,2024-02-17,C-0065,ines.marques65@example.com,Ines Marques,na,CL-GLV-534,Long-Finger Winter Gloves,Clothing,1,  49.00  ,online
+ORD-100135,11/19/2024,C-0038,pedro.alvarez38@example.com,Pedro Alvarez,NA,CL-JRS-512,PeakFlow Race Jersey,Clothing,2,$89.00,online
+ORD-100174,2024-09-26,C-0011,sofia.hernandez11@example.com,Sofia Hernandez, EU ,CP-DRL-100,Shimano 105 Groupset,Components,1,,online
+ORD-100223,"June 22, 2024",C-0058,jessica.park58@example.com,Jessica Park,EU,CL-JKT-501,Stormshield Cycling Jacket,CLOTHING,2,189,Online
+ORD-100181,2024-12-19,C-0072,sofia.hernandez72@example.com,Sofia Hernandez, NA ,AC-LGT-612,USB Front + Rear Light Set, Accessories,1,  59.00  ,online
+ORD-100004,2024-08-22,C-0025,lukas.weber25@example.com,Lukas Weber,NA,CP-HDB-310,Hydraulic Disc Brake Set,COMPONENTS,1,  279.00  ,online
+ORD-100081,09/06/2024,C-0070,anna.schmidt70@example.com,Anna Schmidt, EU ,AC-LGT-612,USB Front + Rear Light Set, Accessories,2,$59.00,ONLINE
+ORD-100168,2024-06-29,C-0016,pedro.alvarez16@example.com,Pedro Alvarez,na,CL-JRS-512,PeakFlow Race Jersey,Clothing,1,89,Online
+ORD-100067,24-09-2024,C-0080,anna.schmidt80@example.com,Anna Schmidt,EU,AC-HLM-601,Aero Road Helmet,accessories,3,  199.00  ,ONLINE
+ORD-100017,2024-12-21,C-0031,anna.schmidt31@example.com,Anna Schmidt,EU,CP-SDL-204,ErgoFit Performance Saddle, Components,2,  149.00  ,ONLINE
+ORD-100012,2024-09-30,C-0068,pedro.alvarez68@example.com,Pedro Alvarez,EU,BK-ROAD-001,Velocity Pro Road Bike, Bikes,1,"2,499",online
+ORD-100113,09/28/2024,C-0013,emma.johnson13@example.com,Emma Johnson,EU,BK-MTB-014,Trailblazer 27.5,bikes,3,"1,799",online
+ORD-100106,2024-07-30,C-0010,elena.petrova10@example.com,Elena Petrova,europe,CL-JRS-512,PeakFlow Race Jersey,Clothing,1,89,Online
+ORD-100228,2024-09-05,C-0063,henrik.nilsson63@example.com,Henrik Nilsson, NA ,CL-BIB-523,Endurance Bib Shorts,clothing,3,  129.00  ,ONLINE
+ORD-100029,11/14/2024,C-0079,ines.marques79@example.com,Ines Marques,EU,AC-LGT-612,USB Front + Rear Light Set,Accessories,1,59,ONLINE
+ORD-100125,2024-11-08,C-0062,sarah.chen62@example.com,Sarah Chen,EU,CP-SDL-204,ErgoFit Performance Saddle,Components,1,$149.00,Online
+ORD-100236,2024-09-07,C-0018,jessica.park18@example.com,Jessica Park,EU,BK-KID-005,"Junior Sprint 20""",Bikes,1,349,ONLINE
+ORD-100124,2024-10-29,C-0085,elena.petrova85@example.com,Elena Petrova,North America,BK-KID-005,"Junior Sprint 20""",Bikes,2,  349.00  ,Online
+ORD-100034,2024-12-04,C-0080,anna.schmidt80@example.com,Anna Schmidt,Europe,BK-ROAD-001,Velocity Pro Road Bike,Bikes,1,"$2,499.00",Online
+ORD-100229,2024-12-19,C-0051,lukas.weber51@example.com,Lukas Weber,NA,CP-HDB-310,Hydraulic Disc Brake Set,Components,3,  279.00  ,Online
+ORD-100187,05/20/2024,C-0071,sofia.hernandez71@example.com,Sofia Hernandez,NA,CL-BIB-523,Endurance Bib Shorts,CLOTHING,3,$129.00,ONLINE
+ORD-100215,01/10/2024,C-0055,tom.becker55@example.com,Tom Becker,EU,AC-HLM-601,Aero Road Helmet,ACCESSORIES,1,199.00,Online
+ORD-100226,2024-10-09,C-0036,tom.becker36@example.com,Tom Becker,Europe,CP-DRL-100,Shimano 105 Groupset,Components,1,$899.00,ONLINE
+ORD-100276,04/30/2024,C-0013,emma.johnson13@example.com,Emma Johnson,EU,CL-BIB-523,Endurance Bib Shorts,Clothing,1,$129.00,online
+ORD-100221,08/22/2024,C-0036,tom.becker36@example.com,Tom Becker,EU,CP-WHL-411,Carbon Wheelset 700c,Components,1,"$1,299.00",ONLINE
+ORD-100008,12/18/2024,C-0021,elena.petrova21@example.com,Elena Petrova,NA,BK-MTB-014,Trailblazer 27.5,Bikes,1,  1799.00  ,online
+ORD-100157,08/04/2024,C-0063,henrik.nilsson63@example.com,Henrik Nilsson, NA ,CL-BIB-523,Endurance Bib Shorts,Clothing,1,  129.00  ,Online
+ORD-100092,30-09-2024,C-0072,sofia.hernandez72@example.com,Sofia Hernandez,N. America,CL-BIB-523,Endurance Bib Shorts,Clothing,1,$129.00,Online
+ORD-100200,2024-06-26,C-0040,pedro.alvarez40@example.com,Pedro Alvarez,EU,AC-BTL-623,Insulated Bottle 750ml,Accessories,1,$24.00,Online
+ORD-100195,2024-04-19,,lukas.weber73@example.com,Lukas Weber,Europe,BK-MTB-014,Trailblazer 27.5,Bicycles,3,1799.0,Online
+ORD-100093,2024-09-03,C-0046, daniel.garcia46@example.com ,Daniel Garcia,North America,BK-KID-005,"Junior Sprint 20""",Bikes,1,  349.00  ,ONLINE
+ORD-100280,30-09-2024,C-0013,emma.johnson13@example.com,Emma Johnson,EU,BK-CITY-022,Urbanflow Commuter,Bikes,2,899.00,ONLINE
+ORD-100248,2024-11-06,C-0023,elena.petrova23@example.com,Elena Petrova,EU,CP-WHL-411,Carbon Wheelset 700c,Componnents,5,1299.00,ONLINE
+ORD-100214,05/10/2024,C-0055,tom.becker55@example.com,Tom Becker,EU,AC-BTL-623,Insulated Bottle 750ml,Accessories,1,$24.00,ONLINE
+ORD-100054,21-02-2024,C-0019,anna.schmidt19@example.com,Anna Schmidt,EU,BK-CITY-022,Urbanflow Commuter,Bikes,2,899.00,Online
+ORD-100082,2024-07-24,C-0048,olivia.brown48@example.com,Olivia Brown,EU,CP-HDB-310,Hydraulic Disc Brake Set,Components ,4,279.00,Online
+ORD-100031,2024-02-23,C-0020,marco.rossi20@example.com,Marco Rossi,EU,CP-HDB-310,Hydraulic Disc Brake Set, Components,1,279,ONLINE
+ORD-100068,2024-05-11,C-0005, olivia.brown5@example.com ,Olivia Brown,na,BK-CITY-022,Urbanflow Commuter,BIKES,2,899,online
+ORD-100058,2024-09-28,C-0064, henrik.nilsson64@example.com ,Henrik Nilsson,NA,CL-JRS-512,PeakFlow Race Jersey,Clothing,1,  89.00  ,ONLINE
+ORD-100086,2024-01-21,C-0076, elena.petrova76@example.com ,Elena Petrova,NA,CL-BIB-523,Endurance Bib Shorts,Clothing,1,129.00,ONLINE
+ORD-100216,2024-07-28,C-0042,liam.oconnor42@example.com,Liam OConnor,EU,CP-HDB-310,Hydraulic Disc Brake Set,Components,1,279,Online
+ORD-100245,10-08-2024,C-0074,lukas.weber74@example.com,Lukas Weber,NA,BK-CITY-022,Urbanflow Commuter,BIKES,1,  899.00  ,ONLINE
+ORD-100198,11/01/2024,C-0082,jessica.park82@example.com,Jessica Park,NA,CL-JKT-501,Stormshield Cycling Jacket,Clothing,1,189.00,ONLINE
+ORD-100140,2024-08-12,C-0069,sarah.chen69@example.com,Sarah Chen,North America,BK-CITY-022,Urbanflow Commuter,Bikes,1,  899.00  ,ONLINE
+ORD-100300,2024-12-14,C-0034,elena.petrova34@example.com,Elena Petrova,N. America,CP-SDL-204,ErgoFit Performance Saddle,Components,3,  149.00  ,Online
+ORD-100205,12/18/2024,C-0041,yuki.tanaka41@example.com,Yuki Tanaka, NA ,CP-SDL-204,ErgoFit Performance Saddle,Components,4,149.00,Online
+ORD-100206,2024-12-10,C-0047,elena.petrova47@example.com,Elena Petrova,EU,BK-KID-005,"Junior Sprint 20""",bikes,1,349.0,online
+ORD-100059,14-07-2024,C-0001,jessica.park1@example.com,Jessica Park,North America,AC-BTL-623,Insulated Bottle 750ml,Accessories,1,24.00,Online
+ORD-100094,11/17/2024,C-0029,yuki.tanaka29@example.com,Yuki Tanaka,EU,AC-LGT-612,USB Front + Rear Light Set, Accessories,5,  59.00  ,Online
+ORD-100176,08-11-2024,C-0015,DANIEL.GARCIA15@EXAMPLE.COM,Daniel Garcia,NA,BK-MTB-014,Trailblazer 27.5,Bikes,1,"$1,799.00",ONLINE
+ORD-100191,2024-03-17,C-0056,henrik.nilsson56@example.com,Henrik Nilsson,Europe,CP-SDL-204,ErgoFit Performance Saddle,Components,1,149.00,Online
+ORD-100048,2024-10-08,C-0071,sofia.hernandez71@example.com,Sofia Hernandez, NA ,CL-JRS-512,PeakFlow Race Jersey,Clothing,1,89.00,online
+ORD-100138,28-10-2024,C-0082,jessica.park82@example.com,Jessica Park,NA,CP-SDL-204,ErgoFit Performance Saddle,Components,1,$149.00,ONLINE
+ORD-100225,02-09-2024,C-0038,pedro.alvarez38@example.com,Pedro Alvarez,NA,CL-JRS-512,PeakFlow Race Jersey,CLOTHING,4,89.00,online
+ORD-100184,2024-07-08,C-0032,liam.oconnor32@example.com,Liam OConnor, EU ,CP-HDB-310,Hydraulic Disc Brake Set,Components,1,279.00,Online
+ORD-100169,26-10-2024,C-0069,sarah.chen69@example.com,Sarah Chen,NA,CP-HDB-310,Hydraulic Disc Brake Set,Components,2,279.0,online
+ORD-100088,2024-07-18,C-0062,sarah.chen62@example.com,Sarah Chen,EU,AC-HLM-601,Aero Road Helmet,Accessories,1,$199.00,ONLINE
+ORD-100071,2024-12-02,C-0033, lukas.weber33@example.com ,Lukas Weber,N. America,BK-ROAD-001,Velocity Pro Road Bike,Bikes ,1,"$2,499.00",Online
+ORD-100005,2024-12-20,C-0007,liam.oconnor7@example.com,Liam OConnor,NA,BK-ROAD-001,Velocity Pro Road Bike,Bikes,4,"$2,499.00",Online
+ORD-100024,06/06/2024,C-0052,jessica.park52@example.com,Jessica Park,NA,BK-ROAD-001,Velocity Pro Road Bike,bikes,1,2499.00,ONLINE
+ORD-100049,2024-12-12,C-0007, liam.oconnor7@example.com ,Liam OConnor, NA ,CL-JKT-501,Stormshield Cycling Jacket,Clothing,1,$189.00,ONLINE
+ORD-100060,2024-03-24,C-0057,elena.petrova57@example.com,Elena Petrova, NA ,AC-LCK-634,Heavy-Duty U-Lock,Accessories,5,$79.00,online
+ORD-100219,2024-08-07,C-0023,ELENA.PETROVA23@EXAMPLE.COM,Elena Petrova,EU,CP-SDL-204,ErgoFit Performance Saddle,Components,1,$149.00,Online
+ORD-100161,2024-10-24,C-0084,pedro.alvarez84@example.com,Pedro Alvarez, NA ,CP-HDB-310,Hydraulic Disc Brake Set,Components,1,279,online
+ORD-100185,2024-11-06,C-0060,ines.marques60@example.com,Ines Marques,EU,BK-KID-005,"Junior Sprint 20""",Bikes,2,  349.00  ,ONLINE
+ORD-100149,2024-10-24,C-0044,TOM.BECKER44@EXAMPLE.COM,Tom Becker,EU,CL-GLV-534,Long-Finger Winter Gloves,Clothing,1,49.00,Online
+ORD-100083,2024-12-19,C-0036,tom.becker36@example.com,Tom Becker, EU ,CP-HDB-310,Hydraulic Disc Brake Set,Components ,4,$279.00,Online
+ORD-100090,2024-07-26,C-0028,jessica.park28@example.com,Jessica Park,EU,AC-LGT-612,USB Front + Rear Light Set,Accessories,1,59,Online
+ORD-100303,2024-10-31,C-0041,yuki.tanaka41@example.com,Yuki Tanaka,NA,CP-SDL-204,ErgoFit Performance Saddle,Components,1,  149.00  ,online
+ORD-100026,2024-05-15,C-0004,jessica.park4@example.com,Jessica Park, NA ,BK-MTB-014,Trailblazer 27.5,Bikes,1,"1,799",Online
+ORD-100238,2024-11-01,C-0083,sofia.hernandez83@example.com,Sofia Hernandez, NA ,BK-MTB-014,Trailblazer 27.5,Bikes,2,  1799.00  ,online
+ORD-100136,30-01-2024,C-0031,anna.schmidt31@example.com,Anna Schmidt, EU ,AC-LCK-634,Heavy-Duty U-Lock,Accessories,1,79.00,ONLINE
+ORD-100152,05/23/2024,C-0004,jessica.park4@example.com,Jessica Park,NA,AC-LCK-634,Heavy-Duty U-Lock,Accessories,2,79.00,ONLINE
+ORD-100234,29-06-2024,C-0014,pedro.alvarez14@example.com,Pedro Alvarez, EU ,CL-BIB-523,Endurance Bib Shorts,clothing,1,$129.00,ONLINE
+ORD-100119,2024-05-31,C-0018,jessica.park18@example.com,Jessica Park,EU,BK-MTB-014,Trailblazer 27.5,Bikes,3,"$1,799.00",Online
+ORD-100132,09/02/2024,C-0057,elena.petrova57@example.com,Elena Petrova,NA,BK-CITY-022,Urbanflow Commuter,bikes,1,899.00,Online
+ORD-100052,08/27/2024,C-0031,anna.schmidt31@example.com,Anna Schmidt,EU,CP-SDL-204,ErgoFit Performance Saddle,Components,1,$149.00,Online
+ORD-100039,03/14/2024,C-0081,henrik.nilsson81@example.com,Henrik Nilsson,europe,CP-WHL-411,Carbon Wheelset 700c,COMPONENTS,2,1299.00,Online
+ORD-100262,2024-08-24,C-0046,daniel.garcia46@example.com,Daniel Garcia,NA,AC-LCK-634,Heavy-Duty U-Lock,Accessories,1,$79.00,Online
+ORD-100047,2024-12-23,C-0076,elena.petrova76@example.com,Elena Petrova,North America,CL-JRS-512,PeakFlow Race Jersey,Clothing,3,$89.00,online
+ORD-100077,18-12-2024,C-0015,daniel.garcia15@example.com,Daniel Garcia,na,AC-BTL-623,Insulated Bottle 750ml,Accessories ,1,  24.00  ,Online
+ORD-100253,28-09-2024,C-0008,henrik.nilsson8@example.com,Henrik Nilsson,NA,AC-LGT-612,USB Front + Rear Light Set,Accesories,1,59.00,Online
+ORD-100294,05/07/2024,C-0023,elena.petrova23@example.com,Elena Petrova,EU,BK-ROAD-001,Velocity Pro Road Bike, Bikes,2,  2499.00  ,Online
+ORD-100057,2024-09-20,C-0075,daniel.garcia75@example.com,Daniel Garcia, EU ,AC-LGT-612,USB Front + Rear Light Set,Accesories,1,59.00,ONLINE
+ORD-100046,05/10/2024,C-0040,pedro.alvarez40@example.com,Pedro Alvarez, EU ,CL-JKT-501,Stormshield Cycling Jacket,Clothing,2,189,Online
+ORD-100007,2024-05-05,C-0025,lukas.weber25@example.com,Lukas Weber,NA,CL-JRS-512,PeakFlow Race Jersey,Clothing,1,89.0,ONLINE
+ORD-100002,2024-10-15,C-0028,jessica.park28@example.com,Jessica Park,EU,CP-DRL-100,Shimano 105 Groupset,Components,3,899,Online
+ORD-100121,2024-03-19,C-0059,pedro.alvarez59@example.com,Pedro Alvarez,NA,BK-CITY-022,Urbanflow Commuter,Bikes,3,899.00,ONLINE
+ORD-100170,2024-09-02,C-0008, henrik.nilsson8@example.com ,Henrik Nilsson,NA,CP-HDB-310,Hydraulic Disc Brake Set,Components,1,$279.00,ONLINE
+ORD-100247,2024-05-07,C-0071,sofia.hernandez71@example.com,Sofia Hernandez, NA ,AC-LGT-612,USB Front + Rear Light Set,Accessories,1,59,online
+ORD-100107,2024-07-26,C-0060,ines.marques60@example.com,Ines Marques,EU,BK-MTB-014,Trailblazer 27.5,Bikes,2,"$1,799.00",Online
+ORD-100255,2024-07-27,C-0046,daniel.garcia46@example.com,Daniel Garcia,NA,CP-HDB-310,Hydraulic Disc Brake Set,components,1,279,online
+ORD-100281,08/03/2024,C-0061,emma.johnson61@example.com,Emma Johnson,Europe,CP-WHL-411,Carbon Wheelset 700c,COMPONENTS,1,"1,299",ONLINE
+ORD-100021,07/05/2024,C-0056,HENRIK.NILSSON56@EXAMPLE.COM,Henrik Nilsson,Europe,BK-KID-005,"Junior Sprint 20""",Bikes,1,349,ONLINE
