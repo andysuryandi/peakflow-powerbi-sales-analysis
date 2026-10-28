@@ -128,6 +128,28 @@ Die Ausschlüsse ungültiger Zeilen erfolgen bereits in Power Query. Diese Berei
 
 Für die lokale Arbeit mit Power BI Desktop ist keine Anmeldung beim Power-BI-Service erforderlich; siehe [Microsoft Press: Power BI Desktop einrichten](https://www.microsoftpressstore.com/articles/article.aspx?p=3222429&seqNum=2).
 
+## Berichtsvorschau
+
+Der Power-BI-Bericht umfasst drei Seiten zur Analyse der Onlinebestellungen 2024.
+
+### 1. Umsatz nach Produktkategorie
+
+Vergleich der Umsatzbeiträge von Bikes, Components, Clothing und Accessories. Ergänzende KPI-Karten zeigen den Gesamtumsatz und die verkauften Einheiten.
+
+![Umsatz nach Produktkategorie](Screenshots/product-categories.png)
+
+### 2. Umsatz nach Region und Quartal
+
+Die Matrix vergleicht die Umsätze von Europe und North America über die vier Quartale. Dadurch werden regionale Unterschiede und Entwicklungen im Jahresverlauf sichtbar.
+
+![Umsatz nach Region und Quartal](Screenshots/region-quarter.png)
+
+### 3. Top-Kunden für die Planung 2025
+
+Darstellung der zehn umsatzstärksten Kunden-IDs aus 2024 und ihres gemeinsamen Anteils am Gesamtumsatz. Die Ergebnisse liefern Ansatzpunkte für die Kundenbetreuung und Planung 2025.
+
+![Top-Kunden für die Planung 2025](Screenshots/top-customers.png)
+
 ## Einordnung und Grenzen
 
 - **Zeit und Umfang:** Die Analyse umfasst die bereitgestellten Onlinebestellungen aus 2024. Aussagen über andere Jahre oder Vertriebskanäle lassen sich daraus nicht ableiten.
