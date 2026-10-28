@@ -115,8 +115,8 @@ Die Ausschlüsse ungültiger Zeilen erfolgen bereits in Power Query. Diese Berei
 | Datei | Inhalt |
 | --- | --- |
 | Power-BI-Projektdatei (`.pbix`) | Bericht, Datenmodell und hinterlegte Transformationen |
-| `peakflow_online_orders_dirty.csv` | Unveränderte Ausgangsdaten |
-| `PeakFlow_Begleitdokumentation_Suryandi_Suryandi.pdf` | Inspektion, Transformation, Modellierung, Measures und Ergebnisinterpretation |
+| [Rohdaten (CSV)](peakflow_online_orders_dirty.csv) | Unveränderte Ausgangsdaten |
+| [Begleitdokumentation (PDF)](PeakFlow_Begleitdokumentation_Suryandi_Suryandi.pdf) | Inspektion, Transformation, Modellierung, Measures und Ergebnisinterpretation |
 
 1. Die PBIX-Datei in **Power BI Desktop** öffnen.
 2. Für eine erneute Datenaktualisierung die CSV lokal bereitstellen und den Quellpfad in Power Query auf diese Datei anpassen.
