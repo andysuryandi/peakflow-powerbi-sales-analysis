@@ -73,8 +73,7 @@ Die folgenden Definitionen entsprechen der Begleitdokumentation. Jedes Measure w
 Gesamtumsatz =
 SUMX(
     FactOrders,
-    FactOrders[Quantity] * FactOrders[UnitPriceUSD]
-)
+    FactOrders[Quantity] * FactOrders[UnitPriceUSD])
 ```
 
 ```dax
@@ -87,8 +86,7 @@ Mittelwert der Bestellungen =
 DIVIDE(
     [Gesamtumsatz],
     COUNTROWS(FactOrders),
-    0
-)
+    0)
 ```
 
 ```dax
