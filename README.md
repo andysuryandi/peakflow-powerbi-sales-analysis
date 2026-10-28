@@ -114,7 +114,8 @@ Die Ausschlüsse ungültiger Zeilen erfolgen bereits in Power Query. Diese Berei
 
 | Datei | Inhalt |
 | --- | --- |
-| Power-BI-Projektdatei (`.pbix`) | Bericht, Datenmodell und hinterlegte Transformationen |
+| [Power-BI-Bericht (PBIX)](peakflow_final_project_Suryandi_Suryandi.pbix) | Bericht, Datenmodell und hinterlegte Transformationen |
+| [Präsentation (PowerPoint)](PeakFlow_Praesentation_PowerBI_Suryandi.pptx) | Geschäftsfragen, Vorgehen und wichtigste Ergebnisse |
 | [Rohdaten (CSV)](peakflow_online_orders_dirty.csv) | Unveränderte Ausgangsdaten |
 | [Begleitdokumentation (PDF)](PeakFlow_Begleitdokumentation_Suryandi_Suryandi.pdf) | Inspektion, Transformation, Modellierung, Measures und Ergebnisinterpretation |
 
